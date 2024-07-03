@@ -24,10 +24,10 @@ JavaScript is the world's most popular programming language. JavaScript is a ver
 Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in various fields, including web development, data analysis, artificial intelligence, scientific computing, and more. Python emphasizes code readability with its use of significant indentation and has a large standard library that supports many common programming tasks.
 ## Syntax Comparison
 ### Variable Declaration
-<table style="width:100%">
+<table >
   <tr>
-    <th>JavaScript</th>
-    <th>Python</th>
+    <th style="width:50%">JavaScript</th>
+    <th style="width:50%">Python</th>
   </tr>
   <tr>
     <td>Jill</td>
