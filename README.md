@@ -30,16 +30,8 @@ Python is a high-level, interpreted programming language known for its simplicit
     <th >Python</th>
   </tr>
   <tr>
-    <td>
-      ```javascript
-         var fullName = "John Doe"
-      ```
-    </td>
-    <td>
-    ```python
-        fullName = "John Doe"
-      ```
-      </td>
+    <td> <p>let fullName = "John Doe"</p> <p> //camelcase is contention</p> </td>
+    <td><p>full_name = "John Doe"</p> <p> //snake_case is convention</p></td>
    
   </tr>
   <tr>
