@@ -42,4 +42,13 @@ Python is a high-level, interpreted programming language known for its simplicit
 </table>
 
 
+| Name        | Age | City          |   
+|-------------|-----|---------------|   
+| John Doe    | 30  | New York      |   
+| Jane Smith  | 25  | Los Angeles   |   
+| Sam Johnson | 35  | San Francisco |    
+
+
+
+
 
