@@ -26,12 +26,20 @@ Python is a high-level, interpreted programming language known for its simplicit
 ### Variable Declaration
 <table >
   <tr>
-    <th style="width:50%">JavaScript</th>
-    <th style="width:50%">Python</th>
+    <th >JavaScript</th>
+    <th >Python</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
+    <td>
+      ```javascript
+         var fullName = "John Doe"
+      ```
+    </td>
+    <td>
+    ```python
+        fullName = "John Doe"
+      ```
+      </td>
    
   </tr>
   <tr>
@@ -40,13 +48,7 @@ Python is a high-level, interpreted programming language known for its simplicit
  
   </tr>
 </table>
-
-
-| Name        | Age | City          |   
-|-------------|-----|---------------|   
-| John Doe    | 30  | New York      |   
-| Jane Smith  | 25  | Los Angeles   |   
-| Sam Johnson | 35  | San Francisco |    
+  
 
 
 
