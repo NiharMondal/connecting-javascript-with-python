@@ -20,7 +20,14 @@ In this section, we'll provide a brief history of JavaScript and Python, highlig
 ## Syntax Comparison
 ### Variable Declaration
 #### JavaScript
+
 ```js
 let message = "Hello, World!";
+```
+#### Python
+```py
+message = "Hello, world!"
+```
+
 
 
